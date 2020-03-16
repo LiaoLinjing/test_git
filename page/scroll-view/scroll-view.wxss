@@ -1,0 +1,9 @@
+/* page/scroll-view/scroll-view.wxss */
+
+.scroll{
+
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  margin: 10px;
+}

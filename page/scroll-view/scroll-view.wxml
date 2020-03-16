@@ -1,0 +1,4 @@
+<!--page/scroll-view/scroll-view.wxml-->
+
+
+<scroll-view class="scroll">我是测试scroll-view</scroll-view>

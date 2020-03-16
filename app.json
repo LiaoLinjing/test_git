@@ -1,5 +1,6 @@
 {
   "pages": [
+   "page/scroll-view/scroll-view",
     "page/home/home",
     "page/about/about"
   ],
