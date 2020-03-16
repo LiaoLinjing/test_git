@@ -1,0 +1,3 @@
+<!--page/image/image.wxml-->
+
+<image src="/assets/image/cat.jpg"></image>
