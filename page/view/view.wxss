@@ -1,0 +1,9 @@
+/* page/view/view.wxss */
+
+.view{
+  width: 100px;
+  height: 100px;
+  background:gray;
+  margin: 10px;
+
+}
